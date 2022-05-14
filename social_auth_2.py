@@ -1,2 +1,2 @@
-print("Social auth v2")
+print("Social auth v1.0.0")
 
